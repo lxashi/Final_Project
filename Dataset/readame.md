@@ -27,4 +27,7 @@ Other files include:
 1. Global Land Temperatures By Major City (**GlobalLandTemperaturesByMajorCity.csv**)
 1. Global Land Temperatures By City (**GlobalLandTemperaturesByCity.csv**)
 
+
+Finally, Make sure to Download the full dataset from the attached Source and place the rest of the CSV files within the "Dataset" Folder, as not the all files was apploaded to this repo.
+
 Dataset source: [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
