@@ -14,7 +14,7 @@
 ## - Dataset Description
 
 * The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country or By state). They publish the source data and the code for the transformations they apply. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
-* Make sure to Download the full dataset from the attached Source, as not the all files was apploaded to this repo.
+* Make sure to Download the full dataset from the attached Source and place the rest of the CSV files within the "Dataset" Folder, as not the all files was apploaded to this repo.
 
 Dataset source: [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
 
