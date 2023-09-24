@@ -1,6 +1,6 @@
 # CM3070 Final project
 
-## Project Title : United Kingdom's Climate Change Analysis And Surface Temperature Forecasting
+## Project Title: United Kingdom's Climate Change Analysis And Surface Temperature Forecasting
 
 ## - Project Overview
 
@@ -13,9 +13,11 @@
 
 ## - Dataset Description
 
-* The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country or By state). They publish the source data and the code for the transformations they applied. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
+* The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country or By state). They publish the source data and the code for the transformations they apply. They also use methods that allow weather observations from shorter time series to be included, meaning fewer observations need to be thrown away.
+* Make sure to Download the full dataset from the attached Source, as not the all files was apploaded to this repo.
 
 Dataset source: [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+
 
 ## - Challenges  
 
@@ -25,7 +27,7 @@ Dataset source: [Climate Change: Earth Surface Temperature Data](https://www.kag
 
 ## - Conclusion & Findings 
 
-In summary, this project provides a thorough assessment of various forecasting models for temperature prediction in the UK. Our findings highlight the effectiveness of models like SARIMA and CNN for monthly data, and ARIMA for yearly predictions. This research emphasizes the importance of aligning models with data characteristics. It also showcases the benefits of using a diverse set of models and sheds light on optimizing neural networks like CNN and LSTM for better predictions. This knowledge can serve as a valuable resource for climate analysis and decision-making in climate change strategies.
+In summary, this project thoroughly assesses various forecasting models for temperature prediction in the UK. Our findings highlight the effectiveness of models like SARIMA and CNN for monthly data, and ARIMA for yearly predictions. This research emphasizes the importance of aligning models with data characteristics. It also showcases the benefits of using a diverse set of models and sheds light on optimizing neural networks like CNN and LSTM for better predictions. This knowledge can serve as a valuable resource for climate analysis and decision-making in climate change strategies.
 
 
 ## - Key Takeaways
