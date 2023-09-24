@@ -1,6 +1,6 @@
 
 # Dataset
-This folder contains the dataset used for training and evaluating the deep learning models in your project. 
+This folder contains the dataset used for training and evaluating the machine & deep learning models in your project. 
 
 # Dataset Description
 
