@@ -1,6 +1,6 @@
 # Models Folder
 
-This folder contains pre-trained Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) models for use in our deep learning project. Instead of retraining these models from scratch, you can load them directly from this folder.
+This folder contains pre-trained Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) models for use in our final project. Instead of retraining these models from scratch, you can load them directly from this folder.
 
 # Contents
 
